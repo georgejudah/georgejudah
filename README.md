@@ -3,8 +3,8 @@
 
 - 👋 Hi, I’m @georgejudah
 - find my portfolio https://georgejudah.github.io/Personalwebsite/
-- 👀 I’m leanring CyberSecurity, developing new apps in Python, Building Websites and flutter 
-- 🌱 I’m currently working on building Python, Full-Stack Applications
+- 👀 I’m learning CyberSecurity, developing new apps in Python, Building Web apps using React JS 
+- 🌱 I’m currently working on building Python, Full-Stack Web Applications
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me mail:georgejudah5@gmail.com
 
