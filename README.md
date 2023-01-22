@@ -3,7 +3,8 @@
 
 - Hey, I'm Judah
 - find my portfolio https://georgejudah.github.io/Personalwebsite/
-- I’m currently learning Full-Stack Development
+- I’m currently developing full-stack applications
+- Tech Explorer
 - I’m looking to collaborate on any projects
 - you can reach out to me at georgejudah5@gmail.com
 
